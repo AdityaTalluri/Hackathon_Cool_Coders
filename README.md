@@ -1,1 +1,1 @@
-# Hackathon_Cool_Coders
+# Hackathon Project - Cool Coders
